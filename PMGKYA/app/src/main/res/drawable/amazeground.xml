@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--on below line we are adding gradient and
+    specifying start and end color with angle-->
+    <gradient
+        android:angle="270"
+        android:endColor="@color/white"
+        android:startColor="#3D54D3" />
+
+</shape>
